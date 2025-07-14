@@ -1,5 +1,6 @@
 # 💻 Rodrigo Guimarães
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 **`Estudante de Análise e Desenvolvimento de Sistema`**
 
 Me chamo Rodrigo Guimarães dos Santos, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Dom Bosco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. 
