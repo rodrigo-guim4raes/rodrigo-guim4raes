@@ -1,8 +1,8 @@
 # 💻 Rodrigo Guimarães
 
-**`Estudante de Análise e Desenvolvimento de Sistema`**
+**`Estudante de Engenharia de Softwarre`**
 
-Me chamo Rodrigo Guimarães dos Santos, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Dom Bosco. Atualmente, estou cursando Engenharia de Software na PUCRS
+Me chamo Rodrigo Guimarães dos Santos, tenho 22 anos e sou natural do Rio Grande do Sul.
 ---
 
 ### 🤖 Linguagens e Tecnologias
