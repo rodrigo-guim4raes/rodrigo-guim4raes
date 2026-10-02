@@ -2,8 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistema`**
 
-Me chamo Rodrigo Guimarães dos Santos, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Dom Bosco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. 
-
+Me chamo Rodrigo Guimarães dos Santos, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Dom Bosco. Atualmente, estou cursando Engenharia de Software na PUCRS
 ---
 
 ### 🤖 Linguagens e Tecnologias
